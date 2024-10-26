@@ -22,6 +22,6 @@ console.log('O Herói de nome ' + nomeHeroi + ' está no nível ' + pontosDeExpe
 ## Como Rodar O Código na Sua Máquina 😃
 
 Clone o meu código com o **Git** e depois vá para o VS Code e abra o terminal e de um `git clone https://github.com/JeyVictor-Dev/nlw-projeto.git`, depois disso de um `node src/index.js` e ele rodará o código.
-**Caso não tenha o VS Code apenas copie o código e cole em uma IDE para Javascript, uma que eu acoselho é [text](https://www.programiz.com/javascript/online-compiler/).**
+**Caso não tenha o VS Code apenas copie o código e cole em uma IDE para Javascript, uma que eu acoselho é [Programiz](https://www.programiz.com/javascript/online-compiler/).**
 
 **Podem usar o código para algum projeto se quiserem**👍
